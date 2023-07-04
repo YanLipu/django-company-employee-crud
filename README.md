@@ -1,8 +1,5 @@
 # API com Django
 
-https://medium.com/django-rest/django-rest-framework-login-and-register-user-fd91cf6029d5
-https://www.youtube.com/watch?v=diB38AvVkHw
-
 Este é um guia para execução do projeto no Ubuntu.
 
 ## Passo 1: Instalar o Docker (caso já tenha instalado, pule para o passo 2)
