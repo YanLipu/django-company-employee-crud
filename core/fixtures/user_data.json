@@ -1,0 +1,22 @@
+[
+    {
+        "model": "core.User",
+        "pk": 1,
+        "fields": {
+            "name": "José Yan Lipu",
+            "email": "joseyan@python.com",
+            "password": "admin123",
+            "role": "ADMIN"
+        }
+    },
+    {
+        "model": "core.User",
+        "pk": 2,
+        "fields": {
+            "name": "Lionel Messi",
+            "email": "lionelmessi@python.com",
+            "password": "user123",
+            "role": "USER"
+        }
+    }
+]
